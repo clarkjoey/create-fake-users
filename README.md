@@ -55,7 +55,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a first attempt at making a personal webiste. The is an example of building a project using the frontend only. This personal website uses HTML and CSS.
+This project is an example of how to run applications in the cloud. In this case, we are creating fake user profiles with "add user" and then displaying them with "all users". For this project we are using Heroku for our cloud service.
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
@@ -101,7 +101,9 @@ To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-This project is an example of how to run applications in the cloud. For this project we are using Heroku!
+AllUsers - displays all the users created
+AddUser - creates a fake profile
+AddUsers - creates 100 fake profiles
 <!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
