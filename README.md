@@ -101,9 +101,9 @@ To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-AllUsers - displays all the users created
-AddUser - creates a fake profile
-AddUsers - creates 100 fake profiles
+AllUsers - displays all the users created <br />
+AddUser - creates a fake profile <br />
+AddUsers - creates 100 fake profiles <br />
 <!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
