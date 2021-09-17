@@ -74,7 +74,7 @@ This is a first attempt at making a personal webiste. The is an example of build
 To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/](https://clarkj97-http-server.herokuapp.com/)
 
 ### Prerequisites
-There are no prerequisites for this software - the webpage is hosted by the cloud application platform Heroku (See "Getting Started").
+
 
 * npm
   ```sh
@@ -83,17 +83,20 @@ There are no prerequisites for this software - the webpage is hosted by the clou
 
 
 ### Installation
-There are no installation requirements.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/clarkjoey/create-fake-users.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-
+3. Run the Node server
+   ```sh
+   node http_server.js
+   ```
+4. Navigate to [https://clarkj97-http-server.herokuapp.com/](https://clarkj97-http-server.herokuapp.com/) to run the application
 
 
 <!-- USAGE EXAMPLES -->
