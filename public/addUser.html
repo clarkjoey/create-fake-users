@@ -70,7 +70,8 @@ function add(){
     }
 
     // post user
-    const url = 'clarkj97-http-server.herokuapp.com/add';
+    const url = 'https://clarkj97-http-server.herokuapp.com/add';
+    // const url = 'http://localhost:3000/add';
     superagent
         .post(url)
         .send(user)
