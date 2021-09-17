@@ -60,7 +60,10 @@ This is a first attempt at making a personal webiste. The is an example of build
 
 
 ### Built With
-
+* [Heroku](https://www.heroku.com)
+* [Faker](https://www.npmjs.com/package/faker)
+* [Express](https://expressjs.com/)
+* [CORS](https://www.npmjs.com/package/cors)
 * [Bootstrap](https://getbootstrap.com/)
 
 
@@ -68,10 +71,10 @@ This is a first attempt at making a personal webiste. The is an example of build
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To run on your machine, navigate to [https://clarkjoey.github.io/personal-website-frontend/home.html](https://clarkjoey.github.io/personal-website-frontend/home.html)
+To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/](https://clarkj97-http-server.herokuapp.com/)
 
 ### Prerequisites
-There are no prerequisites for this software - the webpage is hosted by github (See "Getting Started").
+There are no prerequisites for this software - the webpage is hosted by the cloud application platform Heroku (See "Getting Started").
 
 <!-- 
 This is an example of how to list things you need to use the software and how to install them.
@@ -97,7 +100,7 @@ There are no installation requirements.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-This webpage is a good example of how I might use a website I have built to display my projects and tell a little about myself.
+This project is an example of how to run applications in the cloud. For this project we are using Heroku!
 <!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -107,7 +110,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-Future iterations will include backend logic, an express.js server, and a database - a "3-tier application".
+This project is a simple example but if I were to build more functionality, I would make it into a fake dating app. You can "like" or "dislike" faker.js profiles that are auto-generated for you.
 
 
 <!-- CONTRIBUTING -->
@@ -125,10 +128,9 @@ Contributions are what make the open source community such an amazing place to l
 
 <!-- LICENSE -->
 ## License
-N/a
-<!--
+
 Distributed under the MIT License. 
--->
+
 
 
 <!-- CONTACT -->
@@ -136,7 +138,7 @@ Distributed under the MIT License.
 
 Joseph Clark - [https://www.linkedin.com/in/imjosephclark/](https://www.linkedin.com/in/imjosephclark/) - LinkedIn
 
-Project Link: [https://github.com/clarkjoey/personal-website-frontend](https://github.com/clarkjoey/personal-website-frontend)
+Project Link: [https://github.com/clarkjoey/create-fake-users](https://github.com/clarkjoey/create-fake-users)
 
 
 
