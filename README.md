@@ -76,17 +76,15 @@ To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/
 ### Prerequisites
 There are no prerequisites for this software - the webpage is hosted by the cloud application platform Heroku (See "Getting Started").
 
-<!-- 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
---> 
+
 
 ### Installation
 There are no installation requirements.
-<!--
+
 1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -95,7 +93,7 @@ There are no installation requirements.
    ```sh
    npm install
    ```
--->
+
 
 
 <!-- USAGE EXAMPLES -->
